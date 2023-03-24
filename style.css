@@ -16,7 +16,7 @@ body {
 }
 #right {
     background: whitesmoke;
-    border: 3rem solid whitesmoke;
+    border: 3rem solid rgb(59, 61, 75);
 }
 
 #grid {
@@ -40,6 +40,7 @@ body {
 
 #imgMe {
     border-radius: 30% 10%;
+    padding: 10px;
 }
 #header-Img {    
     border-radius: 25%;
@@ -51,7 +52,7 @@ body {
     font-family: monospace;
     font-weight: 30px;
     position:relative;
-    bottom: 250px; 
+    bottom: 195px; 
     left: 250px;
     padding: 8px;
     
