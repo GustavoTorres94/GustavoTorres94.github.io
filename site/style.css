@@ -2,3 +2,8 @@
   margin: 0;
   border: 0;
 }
+
+.rounded {
+    border-radius: 50px;
+}
+
